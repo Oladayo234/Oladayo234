@@ -3,17 +3,12 @@
 Software developer in training — building full-stack systems in Java, Python, JavaScript, React and Go.  
 Background in Audio-Visual Systems Engineering; now applying systems thinking to backend APIs and clean architecture.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oladayo-ajomole-1a52b594/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/themixgiant/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:oladayoolubunmi@gmail.com)
-
----
-
 **Languages**
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
 
@@ -25,6 +20,26 @@ Background in Audio-Visual Systems Engineering; now applying systems thinking to
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=flat-square&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-%23010101.svg?style=flat-square&logo=socket.io&logoColor=white)
+
+**Databases & Cloud**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+**Tools**
+
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
@@ -40,6 +55,22 @@ Background in Audio-Visual Systems Engineering; now applying systems thinking to
 
 ---
 
-> "Code is like humor. When you have to explain it, it's bad." — *Cory House*
+**Selected Projects**
+
+**Expense Tracker API** — Full-stack REST API with JWT auth, wallet management, and budget tracking. Mono Open Banking integration for auto-importing bank transactions.
+`Spring Boot` `PostgreSQL` `JWT` `Spring Security`
+
+**Mini Kindle Reading Tracker** — Book tracking API with BCrypt auth, MongoDB aggregation for ratings, pagination, and 30+ integration tests.
+`Spring Boot` `MongoDB` `JWT` `JUnit`
+
+**Estate Gate Pass System** — OTP-based visitor access control system with gate pass invalidation and embedded visitor documents.
+`Spring Boot` `MongoDB` `REST API`
+
+**Student Course Management System** — Async layered architecture with custom exceptions mirroring Java DTO conventions.
+`FastAPI` `MongoDB` `Python` `Motor`
+
+---
+
+> "Code is like humour. When you have to explain it, it's bad." — *Cory House*
 
 > "The only way to learn a new programming language is by writing programs in it." — *Dennis Ritchie*
