@@ -55,22 +55,6 @@ Background in Audio-Visual Systems Engineering; now applying systems thinking to
 
 ---
 
-**Selected Projects**
-
-**Expense Tracker API** — Full-stack REST API with JWT auth, wallet management, and budget tracking. Mono Open Banking integration for auto-importing bank transactions.
-`Spring Boot` `PostgreSQL` `JWT` `Spring Security`
-
-**Mini Kindle Reading Tracker** — Book tracking API with BCrypt auth, MongoDB aggregation for ratings, pagination, and 30+ integration tests.
-`Spring Boot` `MongoDB` `JWT` `JUnit`
-
-**Estate Gate Pass System** — OTP-based visitor access control system with gate pass invalidation and embedded visitor documents.
-`Spring Boot` `MongoDB` `REST API`
-
-**Student Course Management System** — Async layered architecture with custom exceptions mirroring Java DTO conventions.
-`FastAPI` `MongoDB` `Python` `Motor`
-
----
-
 > "Code is like humour. When you have to explain it, it's bad." — *Cory House*
 
 > "The only way to learn a new programming language is by writing programs in it." — *Dennis Ritchie*
