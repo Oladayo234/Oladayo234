@@ -25,11 +25,17 @@ Background in Audio-Visual Systems Engineering; now applying systems thinking to
 
 **GitHub Stats**
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Oladayo234&theme=dark&hide_border=true)
+<br>
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Oladayo234&theme=dark&hide_border=true&cache_seconds=1800)
+
+<br>
 
 ![Streak](https://streak-stats.demolab.com?user=Oladayo234&theme=dark&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oladayo234&theme=dark&hide_border=true&layout=compact)
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oladayo234&theme=dark&hide_border=true&layout=compact&cache_seconds=1800)
 
 ---
 
