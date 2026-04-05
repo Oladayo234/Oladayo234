@@ -1,6 +1,6 @@
 ## Oladayo Ajomole · `@Oladayo234`
 
-Software developer in training — building full-stack systems in Java, Python, and JavaScript.  
+Software developer in training — building full-stack systems in Java, Python, JavaScript, React and Go.  
 Background in Audio-Visual Systems Engineering; now applying systems thinking to backend APIs and clean architecture.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oladayo-ajomole-1a52b594/)
