@@ -23,7 +23,6 @@ Background in Audio-Visual Systems Engineering; now applying systems thinking to
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-%23000000.svg?style=flat-square&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-%23010101.svg?style=flat-square&logo=socket.io&logoColor=white)
 
 **Databases & Cloud**
 
